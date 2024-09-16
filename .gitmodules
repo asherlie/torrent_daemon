@@ -1,0 +1,6 @@
+[submodule "localnotify"]
+	path = localnotify
+	url = https://github.com/asherlie/localnotify
+[submodule "diskmap"]
+	path = diskmap
+	url = https://github.com/asherlie/diskmap
